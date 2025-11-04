@@ -1,0 +1,5 @@
+{
+  "name": "Raffle Winner Picker",
+  "description": "A simple and elegant web application to randomly pick a winner from a list of participants. Includes a celebratory confetti effect for the winner.",
+  "requestFramePermissions": []
+}
